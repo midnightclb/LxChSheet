@@ -11,3 +11,5 @@ ls -Art | tail -n 1
 ##Combine
 Combine 2 similar csv files
 cat *.csv >combined.csv
+
+##Just some commit to test git
